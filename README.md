@@ -21,5 +21,5 @@ Having said that, I would say my main goal for Advanced GIS class is to practice
 
 Here is a placeholder for my portfolio, which I will fill out during this minimester. A couple examples of work include:
 
-* [My Google Map Custom Style](https://carlynvandyke.github.io/gis.portfolio/kaballamap.html), inspired by [this painting](https://africa.si.edu/collections/view/objects/asitem/items$0040:14379) by Congolese artist Sylvestre Kaballa. I found the painting in through the [Smithsonian Open Access](https://www.si.edu/openaccess) initiative.
+* [My Google Map Custom Style](https://carlynvandyke.github.io/gis.portfolio/kaballamap.html), inspired by [this painting](https://africa.si.edu/collections/view/objects/asitem/items$0040:14379) by Congolese artist Sylvestre Kaballa. I found the painting through the [Smithsonian Open Access](https://www.si.edu/openaccess) initiative.
 * [A short story map I made](https://arcg.is/1KT1SP) in a previous class which addresses health insurance coverage and payday loan companies in my homeland of Prince George's County, MD.
