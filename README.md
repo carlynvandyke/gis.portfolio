@@ -11,15 +11,20 @@ I'm originally from the DC area (the Maryland side of the suburbs) but have live
 
 I'm interested in health equity- that is, eliminating unjust disparities in health access and outcomes that are created by social or structural determinants. I don't know what I'll be doing after graduation, but as I job search, my main focus is finding something that will contribute some good to the world
 
-# What I hope to learn
+# What I hope to learn - March 2020
 
 I love GIS because it sits at the intersection of a lot of things I care about. As with everyone at Heinz, I'm interested in using data to solve problems, and I think that the insights GIS provides are particularly relevant for health (shoutout to John Snow). But I also am passionate about art and design- particularly color. So being able to fiddle around with data and come up answers to important questions, AND make it look good, is right up my alley.
 
 Having said that, I would say my main goal for Advanced GIS class is to practice what I learned last year in Health GIS so that I can feel like I have those skills mastered, and could use them in the real world- but I am also excited to learn about different mapping and map-related technologies. I am stoked to put together a portfolio of work to take with me when I graduate.
 
+# What I did learn - May 2020
+
+This class fulfilled my expectations of better mastering ArcGIS skills, particularly ArcGIS Pro's more advanced analytic capabilities. I also got much more comfortable with finding and exploring diverse datasets. 
+
 # Portfolio
 
-Here is a placeholder for my portfolio, which I will fill out during this minimester. A couple examples of work include:
+Here is the beginning of my portfolio, which I will flesh out more in the coming weeks:
 
-* [My Google Map Custom Style](https://carlynvandyke.github.io/gis.portfolio/kaballamap.html), inspired by [this painting](https://africa.si.edu/collections/view/objects/asitem/items$0040:14379) by Congolese artist Sylvestre Kaballa. I found the painting through the [Smithsonian Open Access](https://www.si.edu/openaccess) initiative.
 * [A short story map I made](https://arcg.is/1KT1SP) in a previous class which addresses health insurance coverage and payday loan companies in my homeland of Prince George's County, MD.
+* [My Google Map Custom Style](https://carlynvandyke.github.io/gis.portfolio/kaballamap.html), inspired by [this painting](https://africa.si.edu/collections/view/objects/asitem/items$0040:14379) by Congolese artist Sylvestre Kaballa. I found the painting through the [Smithsonian Open Access](https://www.si.edu/openaccess) initiative.
+* [A web map I created](https://arcg.is/00bLia) of my final project for Advanced GIS class, and [an explanatory slide deck to go along with it](https://docs.google.com/presentation/d/1jHZoTfihg7whOiGZxnR_KejPMNhBDR9r7nGZKT3nEtY/edit?usp=sharing).
