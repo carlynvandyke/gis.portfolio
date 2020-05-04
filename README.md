@@ -19,7 +19,7 @@ Having said that, I would say my main goal for Advanced GIS class is to practice
 
 # What I did learn - May 2020
 
-This class fulfilled my expectations of better mastering ArcGIS skills, particularly ArcGIS Pro's more advanced analytic capabilities. I also got much more comfortable with finding and exploring diverse datasets. 
+This class fulfilled my expectations of better mastering ArcGIS skills, particularly ArcGIS Pro's more advanced analytic capabilities. I also got much more comfortable with finding and exploring diverse datasets. I'm happy to have been introduced to alternative mapping tools, like Mapbox, but I definitely think I need more practice with those.
 
 # Portfolio
 
