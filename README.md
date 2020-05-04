@@ -27,4 +27,5 @@ Here is the beginning of my portfolio, which I will flesh out more in the coming
 
 * [A short story map I made](https://arcg.is/1KT1SP) in a previous class which addresses health insurance coverage and payday loan companies in my homeland of Prince George's County, MD.
 * [My Google Map Custom Style](https://carlynvandyke.github.io/gis.portfolio/kaballamap.html), inspired by [this painting](https://africa.si.edu/collections/view/objects/asitem/items$0040:14379) by Congolese artist Sylvestre Kaballa. I found the painting through the [Smithsonian Open Access](https://www.si.edu/openaccess) initiative.
+* [A map I made with a custom ArcGIS map style I designed](https://arcg.is/SS94q), based off [this painting](https://collection.barnesfoundation.org/objects/4720/The-Postman-(Joseph-Etienne-Roulin)/) by Van Gogh, in honor of his birthday (March 30).
 * [A web map I created](https://arcg.is/00bLia) of my final project for Advanced GIS class, and [an explanatory slide deck to go along with it](https://docs.google.com/presentation/d/1jHZoTfihg7whOiGZxnR_KejPMNhBDR9r7nGZKT3nEtY/edit?usp=sharing).
